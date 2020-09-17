@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(54): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(85): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(86): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Vector.h(124): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Pixel.h(15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(51): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(52): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(68): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(69): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(103): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Render.h(104): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\engine_6\engine_24_fps_vsync_on\engine\include\Text.h(11): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Main.cpp(35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Main.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Main.cpp(81): warning C4305: +=: усечение из "double" в "float"
+Main.cpp(84): warning C4305: аргумент: усечение из "double" в "float"
+Main.cpp(149): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Main.cpp(150): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Main.obj : error LNK2001: неразрешенный внешний символ "DirectDrawCreate"
+C:\ENGINE_6\Engine_24_FPS_Vsync_ON\x64\Release\Engine.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
